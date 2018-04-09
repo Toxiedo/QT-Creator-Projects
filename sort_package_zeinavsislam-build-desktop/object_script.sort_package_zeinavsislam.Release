@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\insertion.o
+./release\insertion_sort_class.o
+./release\bubble_sort_class.o
+./release\bubble.o
+./release\selection_sort_class.o
+./release\selection.o
+./release\basic_methods_class.o
+./release\moc_mainwindow.o
+./release\moc_insertion.o
+./release\moc_bubble.o
+./release\moc_selection.o
+);
